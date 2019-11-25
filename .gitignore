@@ -1,2 +1,4 @@
 #Dont track
 node_modules/
+
+src/store/actions/auth.js
